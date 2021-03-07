@@ -46,3 +46,8 @@ https://github.com/aiortc/aiortc (Python, BSD License).
 
 Looks too low level.
 
+# Kurento
+
+https://www.kurento.org/
+
+> Kurento is a low-level platform to create WebRTC applications from scratch. You will be responsible of managing STUN/TURN servers, networking, scalability, etc. If you are new to WebRTC, we recommend using OpenVidu instead.
