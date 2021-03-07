@@ -77,3 +77,7 @@ GPL, written in C.
 https://github.com/open-easyrtc/open-easyrtc
 
 BSD License.
+
+# MediaSoup
+
+https://mediasoup.org/ low level.
