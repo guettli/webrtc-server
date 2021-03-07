@@ -82,6 +82,8 @@ https://github.com/open-easyrtc/open-easyrtc
 
 BSD License.
 
+Only few commits during the last 12 months.
+
 # MediaSoup
 
 https://mediasoup.org/ low level.
