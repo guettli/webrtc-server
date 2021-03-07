@@ -20,6 +20,10 @@ Started in 2017. Younger than other solutions
 
 Seems more suited for custom applications (my use case).
 
+> OpenVidu is a platform to facilitate the addition of video calls in your web or mobile application. It provides a complete stack of technologies very easy to integrate in your application. Our main goal is to allow developers to add real-time communications to their apps very fast and with low impact in their code.
+
+
+
 # BBB
 
 Big Blue Button.
