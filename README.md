@@ -76,7 +76,7 @@ https://github.com/meetecho/janus-gateway
 
 GPL, written in C.
 
-# EasyRTC
+# Open-EasyRTC
 
 https://github.com/open-easyrtc/open-easyrtc
 
