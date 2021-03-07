@@ -2,6 +2,16 @@
 
 March 2021, I am looking for a WebRTC server which I can use in a custom application.
 
+# Glossary:
+
+SFU: Selective Forwarding Unit: https://webrtcglossary.com/sfu/
+
+STUN stands for Session Traversal Utilities for NAT. At its core, it’s purpose is to answer the question “what is my IP address?” It does that by using a STUN server. Free servers are available https://webrtcglossary.com/stun/
+
+# Github Star Trend
+
+https://star-history.t9t.io/#OpenVidu/openvidu&jitsi/jitsi-meet&bigbluebutton/bigbluebutton
+
 # Jitsi
 
 It is unclear how to create new rooms. See https://stackoverflow.com/questions/66517071/jitsi-create-room-via-api-or-python
