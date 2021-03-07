@@ -66,6 +66,12 @@ Only the community version is open source.
 
 License unclear.
 
+# Janus-gateway
+
+https://github.com/meetecho/janus-gateway
+
+GPL, written in C.
+
 # EasyRTC
 
 https://github.com/open-easyrtc/open-easyrtc
