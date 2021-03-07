@@ -40,3 +40,9 @@ https://nextcloud.com/talk/
 
 https://togetherjs.com/
 
+# aiortc
+
+https://github.com/aiortc/aiortc (Python, BSD License).
+
+Looks too low level.
+
