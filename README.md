@@ -57,3 +57,11 @@ https://www.kurento.org/
 # Related Libraries
 
 https://togetherjs.com/
+
+# Ant-Media-Server
+
+https://github.com/ant-media/Ant-Media-Server
+
+Only the community version is open source.
+
+License unclear.
