@@ -36,9 +36,11 @@ https://peerjs.com/
 
 https://nextcloud.com/talk/
 
-# Related Libraries
+# Simple-Peer
 
-https://togetherjs.com/
+https://github.com/feross/simple-peer
+
+
 
 # aiortc
 
@@ -51,3 +53,7 @@ Looks too low level.
 https://www.kurento.org/
 
 > Kurento is a low-level platform to create WebRTC applications from scratch. You will be responsible of managing STUN/TURN servers, networking, scalability, etc. If you are new to WebRTC, we recommend using OpenVidu instead.
+
+# Related Libraries
+
+https://togetherjs.com/
