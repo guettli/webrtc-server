@@ -65,3 +65,9 @@ https://github.com/ant-media/Ant-Media-Server
 Only the community version is open source.
 
 License unclear.
+
+# EasyRTC
+
+https://github.com/open-easyrtc/open-easyrtc
+
+BSD License.
